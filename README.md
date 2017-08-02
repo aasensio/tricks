@@ -4,6 +4,9 @@ Tips & tricks
 ## matplotlib
 
 ### Include legend bar at whichever position
+
+http://matplotlib.org/examples/api/colorbar_only.html
+
 ```
 cm=pl.cm.cool
 sm=pl.cm.ScalarMappable(cmap=cm)
